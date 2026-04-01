@@ -99,11 +99,13 @@ Saved to `results/` after execution:
 
 ### Feature Ablation Plot
 
-![Feature Ablation](results/ablation_plot.png)
+<img width="2100" height="750" alt="image" src="https://github.com/user-attachments/assets/e14184d1-912e-424f-aef3-6944c1985f34" />
+
 
 ### Feature Importance (Random Forest, all data)
 
-![Feature Importance](results/feature_importance.png)
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/0a3cdf46-c814-4f6b-89c1-1f7a88510859" />
+
 
 > Beta/alpha band power and spectral entropy rank highest — RCMSE (scale 1–3) also appears within the top 10.
 
